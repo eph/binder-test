@@ -1,3 +1,7 @@
 [[https://mybinder.org/v2/gh/eph/binder-test.git/master][https://mybinder.org/badge_logo.svg]]
 
 will dsge.py work on binder? fortress?
+
+
+- [X] works with dsge (see requirements)
+- [ ] works with fortress 
