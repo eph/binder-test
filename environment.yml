@@ -1,7 +1,0 @@
-name: test-dsge-environment
-channels:
-  - conda-forge
-  - eherbst
-dependencies:
-  - dsge
-  - fortress
